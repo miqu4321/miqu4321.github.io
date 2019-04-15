@@ -15,8 +15,6 @@ const examples = {
       'He declares his privacy is temporary and justified , and promises to explain before the wedding .',
   'example4':
       '" The quantity of line withdrawn from the boats engaged in the capture of this one whale , amounted altogether to 10 , 440 yards or nearly six English miles .'
-
-      
 };
 
 function status(statusText) {
