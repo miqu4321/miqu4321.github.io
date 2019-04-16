@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Emma spared no exertions to maintain this happier flow of ideas , and hoped , by the help of backgammon , to get her father tolerably through the evening , and be attacked by no regrets but her own .',
+      '" Mr . Elton is a very pretty young man , to be sure , and a very good young man , and I have a great regard for him .',
   'example2':
       'Good Hamlet cast thy nightly colour off , And let thine eye looke like a Friend on Denmarke .',
   'example3':
       'He declares his privacy is temporary and justified , and promises to explain before the wedding .',
   'example4':
-      '" The quantity of line withdrawn from the boats engaged in the capture of this one whale , amounted altogether to 10 , 440 yards or nearly six English miles .'
+      '" The great Leviathan that maketh the seas to seethe like boiling pan ."'
 };
 
 function status(statusText) {
